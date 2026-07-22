@@ -1,0 +1,5 @@
+print("Hello world")
+print(10+20)
+print("Hello,I am Krishna")
+print("I am learning python")
+print("My goal is to become a data scincetist")
